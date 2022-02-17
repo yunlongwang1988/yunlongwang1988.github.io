@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>yunlong&#39;s blog</title>
   
-  
+  <subtitle>云龙的博客</subtitle>
   <link href="https://yunlongwang1988.github.io/atom.xml" rel="self"/>
   
   <link href="https://yunlongwang1988.github.io/"/>
@@ -10,7 +10,7 @@
   <id>https://yunlongwang1988.github.io/</id>
   
   <author>
-    <name>yunlong wang</name>
+    <name>yunlong</name>
     
   </author>
   
